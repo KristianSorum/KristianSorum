@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi 👋
 
-<!--
-**KristianSorum/KristianSorum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 👨‍🎓 I’m a third year software engineering student at OsloMet
+  * OsloMet has thought me about the basics of: HTML, CSS, Bootstrap, JavaScript ES6 + JQuery, Java, MySQL, Python + Flask, Bash, Docker, Postman and Git.
+  * The coming year we we will learn about .NET Core, C#, Angular, cyber security, real life IT-projects and more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 In my spare time and at work I’m currently learning JavaScript with [this](https://www.udemy.com/course/the-complete-javascript-course/) Udemy course. Future projects will be to learn about React and the rest of the MERN stack.
+
+- 📫 How to reach me: [📨](mailto:kristiansrum@gmail.com)
+
+- ⚡️ Fun fact: I like ski mountaineering ⛷ and climbing 🧗
+
